@@ -6,4 +6,5 @@ To do so, I had to insert semantic HTML elements, add alt attributes to images, 
 
 ## Screenshot
 
+(./onedrive/pictures/screenshots/screenshot (5).png)
 
