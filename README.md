@@ -10,4 +10,4 @@ To do so, I had to insert semantic HTML elements, add alt attributes to images, 
 
 ### URL
 
-https://perlowski.github.io/challenge1repo/
+https://perlowski.github.io/horiseon-access-repo/
