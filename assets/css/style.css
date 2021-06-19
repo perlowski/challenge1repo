@@ -48,10 +48,6 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
-
 /* Hero Style */
 
 .hero {
@@ -64,6 +60,10 @@ p {
 }
 
 /* Webpage Content Style */
+
+p {
+    font-size: 16px;
+}
 
 .float-left {
     float: left;
