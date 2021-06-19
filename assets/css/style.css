@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* HEADER / NAV BAR STYLES START */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,6 +52,8 @@ p {
     font-size: 16px;
 }
 
+/* Hero Style */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -58,6 +62,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/* Webpage Content Style */
 
 .float-left {
     float: left;
@@ -119,6 +125,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* Footer Styles */
 
 .footer {
     padding: 30px;
